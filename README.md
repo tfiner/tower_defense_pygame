@@ -28,6 +28,7 @@ Same requirements as above.
 ./simulator.py
 
 Keys:
+```
 Escape      Quit
 
 g           Toggle Grid
@@ -44,7 +45,6 @@ Shift ,     Decrease velocity by %10
 -           Halve the velocity
 ,           
 
-
 1           Toggle Alignment
 2           Toggle Clustering
 3           Toggle Avoidance
@@ -56,10 +56,7 @@ Right       Increase Flee Range
 Left        Decrease Flee Range
 
 f           Toggle Fullscreen
-
 w           Toggle Wrap
-
 d           Toggle Debug
-
 i           Toggle Info                    
-                    
+```                    
