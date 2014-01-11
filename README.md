@@ -19,3 +19,47 @@ tab to select a tower (you'll need to comment out the heat map to see the tower 
 u to upgrade a tower (the range increases, and I think the power might too).
 
 By default, the map is drawing a heat map that the creeper avoids.
+
+
+Simulator, a cheesy BOIDs simulator.
+
+Same requirements as above.
+
+./simulator.py
+
+Keys:
+Escape      Quit
+
+g           Toggle Grid
+
+Shift +
+Shift .     Increase velocity by %10
+
++           Double the velocity
+.           
+
+Shift -
+Shift ,     Decrease velocity by %10
+
+-           Halve the velocity
+,           
+
+
+1           Toggle Alignment
+2           Toggle Clustering
+3           Toggle Avoidance
+ 
+Up          Add 10 boids
+Down        Subtract 10 boids
+
+Right       Increase Flee Range
+Left        Decrease Flee Range
+
+f           Toggle Fullscreen
+
+w           Toggle Wrap
+
+d           Toggle Debug
+
+i           Toggle Info                    
+                    
